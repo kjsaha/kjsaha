@@ -23,7 +23,7 @@
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-<h3>
+<h4>
 Hello, wonderful and amazing GitHub community,
 
 I am an aspiring Full Stack Developer. I graduated from the University of Texas at Arlington in May 2021 with a bachelor's degree in Computer Science. During my coursework at the university, I had an opportunity to work on different projects ranging from web development to software testing. Alongside my coursework, I participated in few hackathons to challenge myself. Until now, I have learnt Java, C, C++, JavaScript, React, React Native, Node, Express, MongoDB, MySql. Recently, I created a food delivery app using MERN stack where the users can search for restaurants and order food from the menu. In the application I created REST API by using NodeJS as the server language and MongoDB as the database. In addition the passwords for user authentication were hashed and private endpoints were protected by using JWT tokens.
@@ -31,7 +31,7 @@ I am an aspiring Full Stack Developer. I graduated from the University of Texas 
 I was born in Bangladesh. I was an introvert and an average student in my middle school who was not serious about anything in the world until Facebook happened. I created my Facebook account in the year of 2010 after which my perception of the world changed. I started realizing that there was more to this world than simply your school and home. I became more confident as I was sharing different content on the platform. I also noticed how Facebook helped to bring everyone closer and all the positive changes it brought into the society. That is when it happened; a spark got ignited inside me which made me study harder so that I could become a software engineer. In pursuit of that dream, I came all the way from Bangladesh to the United States so that I can realize the dream of making products which help in the betterment of the society.
 
 My natural curiosity leads me to learn new technologies and strengthen the knowledge and skills that I already have. In my free time I love playing badminton and watch anime.
-</h3>
+</h4>
 
 <br>
 
