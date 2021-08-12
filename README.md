@@ -1,4 +1,6 @@
+  <p align="center">
   ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+  </p>
 <p>
   <h1 align="center"><b>Hello there, I'm Sameer Memon👋</b></h1>
 </p>
