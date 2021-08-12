@@ -2,16 +2,14 @@
   <img align="center" alt="visitors" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </p>
 <p>
-  <h1 align="center"><b>Hello there, I'm Sameer Memon👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Kinjon Saha👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
+  <h4 align="center"><b><i>"Think Twice, Code Once."</i></b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/sameer1604" />
-</p>
+
 
 <p align="center">
 <br>
