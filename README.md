@@ -15,8 +15,8 @@
 <br>
 
 <a href="https://www.instagram.com/memon.sameer__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/sameer-memon-0019ab1a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:memonsameer4@gmail.com@gmail.com?subject=Hello%20Sameer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kinjon-saha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:kinjonsaha21@gmail.com@gmail.com?subject=Hello%20Kinjon"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
@@ -24,7 +24,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-Hello, wonderful and amazing LinkedIn community,
+Hello, wonderful and amazing GitHub community,
 
 I am an aspiring Full Stack Developer. I graduated from the University of Texas at Arlington in May 2021 with a bachelor's degree in Computer Science. During my coursework at the university, I had an opportunity to work on different projects ranging from web development to software testing. Alongside my coursework, I participated in few hackathons to challenge myself. Until now, I have learnt Java, C, C++, JavaScript, React, React Native, Node, Express, MongoDB, MySql. Recently, I created a food delivery app using MERN stack where the users can search for restaurants and order food from the menu. In the application I created REST API by using NodeJS as the server language and MongoDB as the database. In addition the passwords for user authentication were hashed and private endpoints were protected by using JWT tokens.
 
