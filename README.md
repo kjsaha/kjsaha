@@ -2,7 +2,7 @@
   <img align="center" alt="visitors" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </p>
 <p>
-  <h1 align="center"><b>Hello there, I'm [Kinjon Saha](https://kinjon.algorizin.com/)👋</b></h1>
+  <h1 align="center">Hello there, I'm Kinjon Saha👋</h1>
 </p>
 
 <p>
