@@ -1,4 +1,4 @@
-  (https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)] 
 <p>
   <h1 align="center"><b>Hello there, I'm Sameer Memon👋</b></h1>
 </p>
