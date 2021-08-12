@@ -1,5 +1,5 @@
 <p align="center">
-  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+  <img align="center" alt="visitors" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </p>
 <p>
   <h1 align="center"><b>Hello there, I'm Sameer Memon👋</b></h1>
