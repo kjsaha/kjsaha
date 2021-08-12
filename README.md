@@ -1,4 +1,4 @@
-  [![Matrix SVG]]
+  [![Matrix SVG](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)]
 <p>
   <h1 align="center"><b>Hello there, I'm Sameer Memon👋</b></h1>
 </p>
