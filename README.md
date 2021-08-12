@@ -62,7 +62,7 @@ My natural curiosity leads me to learn new technologies and strengthen the knowl
 
 ### Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kjsaha&show_icons=true&theme=radical" alt="Kinjon's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kjsaha&show_icons=true&theme=react" alt="Kinjon's Github Stats" width="60%">
 
 
 
